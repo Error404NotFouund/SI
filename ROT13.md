@@ -12,9 +12,11 @@ A **B C D E F G H I J  K  L  M  N**  O  P  Q  R  S  T  U  V  W  X  Y  Z
 **Encriptar:**
 
 ~# echo "Aixo es una prova" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
 Nvkb rf han cebin
 
 **Desencriptar:**
 
 ~# echo "Nvkb rf han cebin" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
 Aixo es una prova
